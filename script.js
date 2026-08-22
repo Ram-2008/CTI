@@ -8,7 +8,7 @@ form.addEventListener('submit', async function (e) {
   status.textContent = 'sending...';
 
   try {
-    const res = await fetch('https://formsubmit.co/ajax/ramsahith2008@gmail.com', {
+    const res = await fetch('https://formsubmit.co/ajax/chinnitechinfo18@gmail.com', {
       method: 'POST',
       headers: { 'Accept': 'application/json' },
       body: new FormData(form)
